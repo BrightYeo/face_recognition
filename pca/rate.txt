@@ -1,0 +1,24 @@
+S:14, F:5, W:11
+
+stotal : 14
+wtotal : 11
+ftotal : 5
+rate : 0.466667
+S:14, F:5, W:11
+
+stotal : 14
+wtotal : 11
+ftotal : 5
+rate : 0.466667
+S:14, F:5, W:11
+
+stotal : 14
+wtotal : 11
+ftotal : 5
+rate : 0.466667
+S:14, F:5, W:11
+
+stotal : 14
+wtotal : 11
+ftotal : 5
+rate : 0.466667

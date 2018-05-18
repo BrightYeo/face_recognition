@@ -1,0 +1,10 @@
+0 ../db/0.bmp
+1 ../db/1.bmp
+2 ../db/2.bmp
+3 ../db/3.bmp
+4 ../db/4.bmp
+5 ../db/5.bmp
+6 ../db/6.bmp
+7 ../db/7.bmp
+8 ../db/8.bmp
+9 ../db/9.bmp
